@@ -20,6 +20,18 @@ This intro to web development was taken as a part of Learn to code workshop cond
 * Font, height, width
 * Filters
 
-## JavaScript
 
-* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
