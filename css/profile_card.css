@@ -1,0 +1,18 @@
+#card {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    border: 1px solid black;
+}
+
+#profile_pic {
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+}
+
+#profile_name {
+    color: #292929;
+}
