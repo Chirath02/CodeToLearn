@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+/* id starts with a # and can be used only on one element */
+
+#heading2 {
+    color: blue;
+}
+
+/* class starts with a . and can be used on multiple elements */
+
+.para {
+    font-size: 20px;
+    font-family: "Andale Mono", Arial, cursive;    /* multiple fonts can be specified for backup if not found. */
+    font-weight: bold;
+}
+
+#img1 {
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+}
